@@ -1,0 +1,3 @@
+[submodule "Movie-Genre-Prediction"]
+	path = Movie-Genre-Prediction
+	url = ../
